@@ -109,7 +109,7 @@ section{
     display: none;
 }
 .work-part{
-    height: 240px;
+    min-height: 240px;
 }
 .work-box{
     padding: 0;
@@ -239,16 +239,7 @@ footer{
         font-size: 13px;
     }
 }
-@media all and (max-width: 471px){
-    .work-sec{
-        height: 1000px;
-    }
-}
-@media all and (max-width: 871px){
-    .work-sec{
-        height: 600px;
-    }
-}
+
 @media all and (max-width: 991px){
     section{
         margin-top: 30px;

@@ -25,6 +25,7 @@ nav{
     background-color: #CAA892;
     color: #fff;
     border: none;
+    outline: none!important;
     border-radius: 20px 0px 20px 0px;
     font-weight: 500;
 }

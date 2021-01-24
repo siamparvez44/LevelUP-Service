@@ -175,10 +175,11 @@ section{
     z-index: 1;
     position: absolute;
     border-radius: 50px 0px 50px 0px;
+    border: 1px solid #CAA892;
 }
 .bdeco div{
     width: 90%;
-    height: 350px;
+    height: 360px;
     position: absolute;
     border: 2px solid #CAA892;
     border-radius: 60px 0px 60px 0px;
@@ -222,6 +223,8 @@ footer h5{
 footer{
     margin-top: 70px;
 }
+
+
 
 @media all and (max-width: 425px){
     .custom-toggler{

@@ -166,9 +166,6 @@ section{
     color: #CAA892;
     font-size: 40px;
 }
-.blog-sec{
-    padding: 80px 60px;
-}
 .bdeco{
     position: relative;
     height: 350px;
@@ -339,5 +336,26 @@ footer{
     .bdeco div{
         width: 350px;
         height: 300px!important;
+    }
+}
+@media all and (max-width: 400px){
+    .img-box img{
+        width: 280px;
+        height: 250px;
+    }
+    .img-box .border-dec{
+        width: 280px;
+        height:250px;
+        top: 15px;
+        left: 25px;
+    }
+    .bdeco img{
+        width: 280px;
+    }
+    .bdeco div{
+        width: 280px;
+        height: 250px!important;
+        top: 15px;
+        left: 25px;
     }
 }

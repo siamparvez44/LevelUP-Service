@@ -220,7 +220,7 @@ footer h5{
     justify-content: center;
     margin: 5px;
 }
-.icon:hover{
+.icon  i:hover{
     background-color: #CAA892;
     box-shadow: 0px 0px 5px grey;
 }

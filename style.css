@@ -201,6 +201,7 @@ section {
 .input-group input{
     border-radius: 20px 0px 0px 0px;
 }
+
 footer li{
     list-style: none;
     color: gray;
@@ -208,7 +209,7 @@ footer li{
 footer h5{
     color: #5e5d5d;
 }
-.icon{
+.icon i{
     width: 30px;
     height: 30px;
     color: #fff;
